@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="150px" height="150px" xmlns="http://www.w3.org/2000/svg" version="1.1">
+    <title>instagram</title>
+    <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
+    <defs>
+        <linearGradient id="gradient-1" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-2" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-3" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-4" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-5" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+    </defs>
+    <g fill="rgb(215,215,215)" id="Page 1">
+        <g opacity="0.400000" fill="rgb(0,0,0)" id="instagram"></g>
+        <path id="instagram" d="M95,66 C96,68 97,71 97,74 C97,86 87,96 75,96 C63,96 53,86 53,74 C53,71 54,68 55,66 L35,66 L35,103 C35,109 40,115 46,115 L104,115 C110,115 116,109 116,103 L116,66 L116,66 L95,66 M75,89 C83,89 90,82 90,74 C90,66 83,59 75,59 C67,59 60,66 60,74 C60,82 67,89 75,89 C75,89 67,89 75,89 L75,89 M116,45 C116,39 110,34 104,34 L46,34 C40,34 35,39 35,45 L35,59 L59,59 C63,55 69,52 75,52 C81,52 87,55 91,59 L116,59 L116,59 L116,45" opacity="0.400000" fill="rgb(0,0,0)"></path>
+        <path id="instagram decoration" d="" opacity="0.400000" fill="rgb(0,0,0)"></path>
+    </g>
+</svg>
