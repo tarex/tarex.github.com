@@ -1,0 +1,35 @@
+        ::-webkit-scrollbar {
+            width: 0px;
+        }
+
+        ::selection {
+            background: #FF5E99;
+            color: #222;
+            text-shadow: none;
+        }
+
+        .tpad {
+
+
+
+        }
+
+        body
+        {
+            
+        }
+
+        #ttxt
+        {
+            width:1150px;
+            height:600px;
+            padding-left:30px;
+            padding-top:30px;
+            font-size: 18px;
+            background: #eee;
+
+        }
+
+        cursor:text{
+            color:red;
+        };
